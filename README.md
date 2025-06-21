@@ -24,5 +24,5 @@
 
 ### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upamanyu-coder&show_icons=true&locale=en&layout=compact" alt="upamanyu-coder" /></p>
-
+<br>
 <p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=upamanyu-coder" alt="GitHub Streak" /></p>
