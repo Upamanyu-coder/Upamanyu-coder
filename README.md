@@ -24,9 +24,13 @@
 
 ### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upamanyu-coder&show_icons=true&locale=en&layout=compact" alt="upamanyu-coder" /></p>
-<br>
 <p>
   <img src="https://streak-stats.demolab.com?user=upamanyu-coder" alt="GitHub Streak"/>
+</p>
+
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upamanyu-coder&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 
