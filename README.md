@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upamanyu-coder&show_icons=true&locale=en&layout=compact" alt="upamanyu-coder" /></p>
 <br>
 <p>
-  <img src="https://streak-stats.demolab.com?user=upamanyu-coder"/>
+  <img src="https://streak-stats.demolab.com?user=upamanyu-coder" alt="Github Streak Status"/>
 </p>
 <br>
 <br>
