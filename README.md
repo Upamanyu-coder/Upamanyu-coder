@@ -1,42 +1,65 @@
-
 <h1 align="center">Hi 👋, I'm Yubraj Dhakal</h1>
-<h3 align="center">A Passionate Software Developer From The Beautiful Hills Of Nepal🇳🇵</h3>
+<h3 align="center">🚀 A Passionate Software Developer from the Beautiful Hills of Nepal 🇳🇵</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" width="500"/>
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+### 🌱 Currently Learning
+- **Next.js**, **TypeScript**, **Node.js (Backend)**
+- Building full-stack web apps with modern frameworks
 
-- 🌱 I’m currently learning **NextJS | Typescript | NodeJS Backend**
-- 💬 Ask me about **HTML,CSS,Javascript,React**
-  
-- 📫 How to reach me **yubrazdhakal.com.np**
+### 💬 Ask Me About
+- `HTML`, `CSS`, `JavaScript`, `React`, `GitHub Pages`
+- Frontend UI/UX and API integration
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Reach Me At
+- 🌐 [yubrazdhakal](https://yubrazdhakal.com.np)
+- 📧 contact@yubrazdhakal.com.np
+
+---
+
+### 🔗 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/yubraj__dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yubraj__dhakal" height="30" width="40" /></a>
-<a href="https://fb.com/yubraj dhakal upamanyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yubraj dhakal upamanyu" height="30" width="40" /></a>
-<a href="https://instagram.com/yubraj__dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yubraj__dhakal" height="30" width="40" /></a>
-<!-- <a href="[https://instagram.com/yubraj__dhakal](https://www.linkedin.com/in/yubraj-dhakal-3b263428a/)" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" /> </a> -->
+  <a href="https://twitter.com/yubraj__dhakal" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+  <a href="https://fb.com/yubraj dhakal upamanyu" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="30" /></a>
+  <a href="https://instagram.com/yubraj__dhakal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="https://www.linkedin.com/in/yubraj-dhakal-3b263428a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upamanyu-coder&show_icons=true&locale=en&layout=compact" alt="upamanyu-coder" /></p>
-<br>
-<p>
-  <img src="https://streak-stats.demolab.com?user=upamanyu-coder" alt="Github Streak Status"/>
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,figma,tailwind,github,vscode" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=upamanyu-coder&show_icons=true&theme=tokyonight" alt="Yubraj's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upamanyu-coder&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=upamanyu-coder&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=upamanyu-coder&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
+---
 
+### 🚀 Projects Showcase (Coming Soon...)
+Stay tuned for exciting full-stack projects and open-source contributions.
 
+---
+
+<p align="center">Thank you for visiting! 🌟 Keep coding and keep growing 🚀</p>
